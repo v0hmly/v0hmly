@@ -1,21 +1,28 @@
-<div align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/v0hmly/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://t.me/v0hmly">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=v0hm&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-  </h1>
-</div>
+# Vladimir Dmitriev
 
-### :man_technologist: About Me:
-- 🌱 I’m currently learning Golang
-- 🤔 I’m currently working as a Python developer in [Tripleten](https://tripleten.com/), USA
-- 📫 To reach me write to [Telegram](https://t.me/v0hmly)
+**Backend Architect & Technical Lead · Head of Golang**
+
+I design reliable backend systems and help engineering teams deliver them.
+My background spans Python development, Go engineering, and technical leadership.
+
+## What I work on
+
+- **Backend architecture:** service boundaries, API contracts, and integration across isolated network zones.
+- **Hands-on Go engineering:** backend services, shared libraries, and practical developer tooling.
+- **Engineering foundations:** service templates, CI/CD, observability, and standards that support team autonomy.
+- **Technical leadership:** growing Go teams, defining ownership, and connecting architectural decisions with implementation.
+
+## Topics I'm exploring
+
+- Communication between DMZ and internal systems under connection restrictions.
+- Go build caching and the total time to feedback in CI.
+- Workflow design for complex business processes.
+- Code review queues and the role of LLM-assisted review.
+
+## Current project
+
+I'm building a personal engineering website for case studies and interactive technical explanations. Work in progress.
+
+## Get in touch
+
+[Telegram](https://t.me/v0hmly) · [LinkedIn](https://www.linkedin.com/in/v0hmly/)
