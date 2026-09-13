@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Vladimir Dmitriev — Backend Architect &amp; Technical Lead</title>
+  <desc id="description">Dark blue banner with teal accents and connected code, systems, and team cards.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2e" />
+      <stop offset="1" stop-color="#0b1220" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#14b8a6" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#14b8a6" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="bounds">
+      <rect width="1200" height="280" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="280" fill="url(#background)" />
+    <circle cx="1030" cy="140" r="300" fill="url(#glow)" />
+    <path d="M816 0V280M888 0V280M960 0V280M1032 0V280M1104 0V280M1176 0V280M800 68H1200M800 140H1200M800 212H1200" fill="none" stroke="#334155" stroke-opacity="0.24" />
+    <rect x="64" y="54" width="32" height="4" rx="2" fill="#2dd4bf" />
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="111" y="62" font-size="15" font-weight="600" letter-spacing="2" fill="#8dded7">GO · ARCHITECTURE · LEADERSHIP</text>
+      <text x="60" y="143" font-size="58" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Vladimir Dmitriev</text>
+      <text x="64" y="193" font-size="25" fill="#b5c3d6">Backend Architect &amp; Technical Lead</text>
+      <path d="M961 88H1000V140H1033M961 216H1000V140" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.65" />
+      <circle cx="1000" cy="140" r="5" fill="#2dd4bf" />
+      <g fill="#111f31" stroke="#345363">
+        <rect x="849" y="52" width="112" height="72" rx="14" />
+        <rect x="849" y="180" width="112" height="72" rx="14" />
+        <rect x="1033" y="104" width="112" height="72" rx="14" />
+      </g>
+      <g text-anchor="middle">
+        <text x="905" y="86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#67e8f9">{ go }</text>
+        <text x="905" y="108" font-size="10" font-weight="600" letter-spacing="2" fill="#b5c3d6">CODE</text>
+        <g fill="#c4b5fd">
+          <circle cx="894" cy="200" r="5" />
+          <circle cx="916" cy="200" r="5" />
+          <path d="M885 216V213A9 9 0 0 1 903 213V216ZM907 216V213A9 9 0 0 1 925 213V216Z" />
+        </g>
+        <text x="905" y="239" font-size="10" font-weight="600" letter-spacing="2" fill="#b5c3d6">TEAMS</text>
+        <g fill="none" stroke="#5eead4" stroke-width="2">
+          <rect x="1071" y="121" width="36" height="10" rx="3" />
+          <rect x="1071" y="137" width="36" height="10" rx="3" />
+        </g>
+        <text x="1089" y="162" font-size="10" font-weight="600" letter-spacing="2" fill="#b5c3d6">SYSTEMS</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="23.5" fill="none" stroke="#334155" />
+</svg>
